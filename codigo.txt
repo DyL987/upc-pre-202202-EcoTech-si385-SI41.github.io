@@ -1,0 +1,136 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Take Me Home official landing page site"/>
+    <meta name="keywords" content="travel, viaje, pedido, paquete, packages, order, earn money, líder, business, intercambio "/>
+    <meta name="author" content="Take Me Home development team"/>
+    <title>TMH</title>
+    <link rel="icon" href="TMH-logo.ico">
+    <link rel="stylesheet" href="assets/styles/estilos.css">
+<style> 
+    body{
+            background-color: #8db600
+
+        }
+</style>
+</head>
+<body>
+<header>
+    <div class="container-header">
+        <a href="index.html" class="logo">
+            <img src="http://somosreciclapp.com/wp-content/uploads/2022/01/logo-blanco.png" alt="Logo de Take Me Home">
+        </a>
+        <nav>
+            
+            <a href="#quienes-somos">¿Quiénes somos?</a>
+            <a href="#RECICLAPP">RECICLAPP</a>
+            <a href="#como-reciclar">¿Cómo reciclar?</a>
+            <a href="#beneficios">Noticias</a>
+            
+        </nav>
+    </div>
+</header>
+<section id="quienes-somos">
+    <div class="container">
+
+        <h2>¿Quiénes somos?</h2>
+        <div class="line-title"></div>
+
+        <div class="container-quienes-somos">
+            <div class="col">
+                <p>
+                    Una Startup peruana cuyo objetivo principal es el diseño y creación de software enfocado a la preservación y cuidado del medio ambiente.
+                </p>
+
+            </div>
+            <div class="col">
+                <div class="qs-img" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9iQcOonrNmGgMKsMaBmZ8a7o1qYJDQhSEwfrtBdig3Rs7wbeN"></div>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+<section id="quienes-somos">
+    <div class="container">
+
+        <h2>RECICLAPP</h2>
+        <div class="line-title"></div>
+
+        <div class="container-quienes-somos">
+            <div class="col">
+                <p>
+                   Permitirá que las personas pueden ubicar con facilidad los puestos de reciclaje más cercanos a ellos; Asimismo, permitirá que el personal encargado del recojo de material reciclado localice aquellos contenedores de reciclaje que se encuentren a su nivel máximo de capacidad
+                </p>
+
+            </div>
+            <div class="col">
+                <div class="qs-img" ><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuzB-cWZJmWCfvX1LXJEWdSAbF9zLhpsgZFl_NuaudHJEwzQPc"></div>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+<section id="como-reciclar" >
+
+    <div class="container">
+
+        <h2>¿Cómo reciclar?</h2>
+        <div class="line-title"></div>
+
+        <div class="container-quienes-somos" >
+            <div class="col">
+                <p>
+                    Existen distintas maneras de reciclar, pero una de las más efectivas es separar los desechos reciclables por tipo del material del que están hechos y ponerlos en contenedores diferentes.
+                </p>
+
+            </div>
+
+            <div class="col">
+                <div class="qs-img" ><img src="https://cdn-icons-png.flaticon.com/512/2911/2911699.png"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section id="beneficios" >
+
+    <div class="container">
+        <div class="container-beneficios">
+
+            <h2>Noticias</h2>
+
+        </div>
+
+        <div class="container-beneficios">
+
+            <div class="col-benef">
+                <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv7FWkREmMYHPl5qpi8ZaOgD1l4yBiSuOPPMHUbNsWJvbcN_wQ" alt="delivery's speed">
+                <p>Reducir</p>
+            </div>
+            <div class="col-benef">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqhcMyayHCvdU1LLXqWbmT9DEZmOb_IUMVpby0E73NwHdLCfIb" alt="easy access">
+                <p>Reciclar</p>
+            </div>
+            <div class="col-benef">
+                <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPRxPRhEG_G0ZgrqtyzrtvBg3x53IXLk27zcavHixa64G-FV8T" alt="security">
+                <p>Reutilizar</p>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+</footer>
+
+</body>
+</html>
